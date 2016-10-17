@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set_marker>
+    <pontos>
+	<latitude>-23.558050</latitude>
+	<longitude>-46.732032</longitude>
+	<referencia>Terreno Íngrime</referencia>
+	<identificador>false</identificador>
+    </pontos>
+    <pontos>
+        <latitude>-23.557873</latitude>
+        <longitude>-46.730595</longitude>
+        <referencia>Local com Acessibilidade</referencia>
+        <identificador>true</identificador>
+    </pontos>
+    <pontos>
+        <latitude>-23.556536</latitude>
+        <longitude>-46.729135</longitude>
+        <referencia>Local com Acessibilidade</referencia>
+        <identificador>true</identificador>
+    </pontos>
+    <pontos>
+        <latitude>-23.557263</latitude>
+        <longitude>-46.731614</longitude>
+        <referencia>Terreno Plano</referencia>
+        <identificador>true</identificador>
+    </pontos>
+    <pontos>
+        <latitude>-23.556762</latitude>
+        <longitude>-46.728728</longitude>
+        <referencia>Terreno Plano</referencia>
+        <identificador>true</identificador>
+    </pontos>
+    <pontos>
+        <latitude>-23.555670</latitude>
+        <longitude>-46.729135</longitude>
+        <referencia>Obstáculo</referencia>
+        <identificador>false</identificador>
+    </pontos>
+</set_marker>
